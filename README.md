@@ -2,9 +2,9 @@ Innovative Mobile & Android Engineer crafting, designing and developing high-qua
 
 I ensure that my clients get the best results with deep understanding of the latest technologies and trends. My clients navigate the ever-evolving digital landscape and achieve their goals.
 
-### I am specialised in:
+## I am specialised in:
 
-### Programming Languages:
+## Programming Languages:
 
 • Kotlin
 
@@ -15,7 +15,7 @@ I ensure that my clients get the best results with deep understanding of the lat
 • C++.
 
 
-### Mobile Development:
+## Mobile Development:
 
 • Android SDK
 
@@ -26,7 +26,7 @@ I ensure that my clients get the best results with deep understanding of the lat
 • Dependency Injection (Dagger, Hilt).
 
 
-### Mobile Architecture Patterns:
+## Mobile Architecture Patterns:
 
 • Clean Architecture
 
@@ -39,7 +39,7 @@ I ensure that my clients get the best results with deep understanding of the lat
 • MVC (Model-View-Controller).
 
 
-### API Integration & Databases Management:
+## API Integration & Databases Management:
 
 • RESTful APIs
 
@@ -54,7 +54,7 @@ I ensure that my clients get the best results with deep understanding of the lat
 • Room.
 
 
-### Security:
+## Security:
 
 • Secure Coding Practices
 
@@ -71,7 +71,7 @@ I ensure that my clients get the best results with deep understanding of the lat
 • Single Sign-On.
 
 
-### Testing and Quality Assurance:
+## Testing and Quality Assurance:
 
 • Unit Testing (JUnit4, JUnit5, Jetpack Compose)
 
