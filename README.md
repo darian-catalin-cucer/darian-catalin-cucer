@@ -7,75 +7,48 @@ I ensure that my clients get the best results with deep understanding of the lat
 ## Programming Languages:
 
 • Kotlin
-
 • Java
-
 • Swift
-
-• C++.
-
+• C++
 
 ## Mobile Development:
 
 • Android SDK
-
 • Android Jetpack Compose
-
 • Material Design Guidelines
-
-• Dependency Injection (Dagger, Hilt).
-
+• Dependency Injection (Dagger, Hilt)
 
 ## Mobile Architecture Patterns:
 
 • Clean Architecture
-
 • MVVM (Model-View-ViewModel)
-
 • MVP (Model-View-Presenter)
-
 • MVI (Model-View-Intent)
-
 • MVC (Model-View-Controller).
-
 
 ## API Integration & Databases Management:
 
 • RESTful APIs
-
 • SQLite
-
 • Retrofit
-
 • OkHttps
-
 • Volley
-
-• Room.
-
+• Room
 
 ## Security:
 
 • Secure Coding Practices
-
 • Encryption and Decryption
-
 • Biometric Authentication
-
 • Two-Factor Authentication (2FA)
-
 • Token-Based Authentication
-
 • OAuth
-
-• Single Sign-On.
-
+• Single Sign-On
 
 ## Testing and Quality Assurance:
 
 • Unit Testing (JUnit4, JUnit5, Jetpack Compose)
-
-• Continuous Integration.
+• Continuous Integration
 
 ## Let's connect and explore how I can complete to your next project or team.
 
