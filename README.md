@@ -6,17 +6,23 @@ I ensure that my clients get the best results with deep understanding of the lat
 
 ## [LinkedIn](https://www.linkedin.com/in/darian-catalin-cucer/) • [LeetCode](https://leetcode.com/darian-catalin-cucer/) • [HackerRank](https://www.hackerrank.com/profile/cucer) •  [StackOverflow](https://stackoverflow.com/users/16528677/darian-cătălin-cucer) • [Security](https://security.stackexchange.com/users/291399/darian-cătălin-cucer) • [Android](https://android.stackexchange.com/users/383966/darian-cătălin-cucer) • [Database](https://dba.stackexchange.com/users/271745/darian-cătălin-cucer)
 
-## Programming Languages:
+## Mobile Engineering:
+### Android Coding Languages:
 • Kotlin
 • Java
-• Swift
-• C++
 
-## Mobile Development:
-• Android SDK
+### Android Development:
+• Android SDK (Software Development Kit)
 • Android Jetpack Compose
 • Material Design Guidelines
 • Dependency Injection (Dagger, Hilt)
+
+### iOS Coding Languages:
+• Swift
+
+### iOS Development:
+• SwiftUI
+• Objective-C
 
 ## Mobile Architecture Patterns:
 • Clean Architecture
