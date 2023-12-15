@@ -2,7 +2,7 @@ Innovative Mobile & Android Engineer crafting, designing and developing high-qua
 
 I ensure that my clients get the best results with deep understanding of the latest technologies and trends. My clients navigate the ever-evolving digital landscape and achieve their goals.
 
-## I am specialised in:
+## [LinkedIn](https://www.linkedin.com/in/darian-catalin-cucer/) • [LeetCode](https://leetcode.com/darian-catalin-cucer/) • [HackerRank](https://www.hackerrank.com/profile/cucer) •  [StackOverflow](https://stackoverflow.com/users/16528677/darian-cătălin-cucer) • [Security](https://security.stackexchange.com/users/291399/darian-cătălin-cucer) • [Android](https://android.stackexchange.com/users/383966/darian-cătălin-cucer) • [Database](https://dba.stackexchange.com/users/271745/darian-cătălin-cucer)
 
 ## Programming Languages:
 
